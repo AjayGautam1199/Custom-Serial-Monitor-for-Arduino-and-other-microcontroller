@@ -31,6 +31,11 @@ Arduino IDE lacks certain features like easy data copying and pasting due to tok
 ## Demo
 
 Check out the demonstration of the monitor app and texttocsv.exe tool in action.
+*1
+<img src ="https://github.com/AjayGautam1199/Custom-Serial-Monitor-for-Arduino-and-other-microcontroller/blob/main/testingwithcustommadeapp-ezgif.com-video-to-gif.gif">
+*2
+<img src ="https://github.com/AjayGautam1199/Custom-Serial-Monitor-for-Arduino-and-other-microcontroller/blob/main/mycreatedtools-ezgif.com-video-to-gif.gif">
+
 
 ## Contributions
 
