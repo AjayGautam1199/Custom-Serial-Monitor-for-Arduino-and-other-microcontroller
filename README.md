@@ -37,8 +37,11 @@ Check out the demonstration of the monitor app and texttocsv.exe tool in action.
 
 <img src ="https://github.com/AjayGautam1199/Custom-Serial-Monitor-for-Arduino-and-other-microcontroller/blob/main/testingwithcustommadeapp-ezgif.com-video-to-gif.gif">
 
-
 # 2
+
+<img src="https://github.com/AjayGautam1199/Custom-Serial-Monitor-for-Arduino-and-other-microcontroller/blob/main/Screenshot%20(336).png">
+
+# 3
 
 <img src ="https://github.com/AjayGautam1199/Custom-Serial-Monitor-for-Arduino-and-other-microcontroller/blob/main/mycreatedtools-ezgif.com-video-to-gif.gif">
 
